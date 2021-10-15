@@ -1,0 +1,12 @@
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\net5.0\HospiEnCasa.App.Dominio.deps.json
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\net5.0\HospiEnCasa.App.Dominio.dll
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\net5.0\ref\HospiEnCasa.App.Dominio.dll
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\net5.0\HospiEnCasa.App.Dominio.pdb
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.dll
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\ref\HospiEnCasa.App.Dominio.dll
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\net5.0\HospiEnCasa.App.Dominio.pdb
