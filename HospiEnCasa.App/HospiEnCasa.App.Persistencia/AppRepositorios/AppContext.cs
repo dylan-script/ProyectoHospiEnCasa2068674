@@ -10,16 +10,24 @@ namespace HospiEnCasa.App.Persistencia{
         public DbSet<Paciente> Pacientes {get; set;}
         public DbSet<SignoVital> SignoVitales {get; set;}
         public DbSet<SugerenciaCuidado> SugerenciaCuidados {get; set;}
-
          protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             
 
             if(!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ProyectoHospiEnCasa2068674" );
+                optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=HospiEnCasa2068674" );
 
             }
         }
+
+         
+        
+         
+
+         
+         
+         
+        
     }
 }
