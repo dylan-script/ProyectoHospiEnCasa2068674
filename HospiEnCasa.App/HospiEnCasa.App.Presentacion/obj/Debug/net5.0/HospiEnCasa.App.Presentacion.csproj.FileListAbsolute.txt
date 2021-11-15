@@ -76,3 +76,9 @@ C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\obj\D
 C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\obj\Debug\net5.0\ref\HospiEnCasa.App.Presentacion.dll
 C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\obj\Debug\net5.0\HospiEnCasa.App.Presentacion.pdb
 C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\obj\Debug\net5.0\HospiEnCasa.App.Presentacion.genruntimeconfig.cache
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\Debug\net5.0\HospiEnCasa.App.Dominio.dll
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.dll
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\Debug\net5.0\HospiEnCasa.App.Dominio.pdb
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.pdb
