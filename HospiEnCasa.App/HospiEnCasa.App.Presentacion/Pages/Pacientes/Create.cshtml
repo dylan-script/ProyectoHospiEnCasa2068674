@@ -1,0 +1,49 @@
+﻿@page
+@model HospiEnCasa.App.Presentacion.Pages_Pacientes.CreateModel
+@{
+}
+<h1>Add</h1>
+ 
+<form method="post">
+       
+    <div class="form-group">
+        <label>Nombre</label>
+        <input  asp-for="Paciente.Nombre" class="form-control" />
+         
+    </div>
+    <div class="form-group">
+        <label>Apellido</label>
+        <input  asp-for="Paciente.Apellido" class="form-control" />
+        
+    </div>
+    <div class="form-group">
+        <label>Genero</label>
+        <select asp-for="Paciente.Genero" class="form-control">
+                 <option selected>Genero...</option>
+                   <option value=0>Masculino</option>
+                    <option value=1>Femenino</option>
+                </select>
+    </div>
+    <div class="form-group">
+        <label>Numero de Telefono</label>
+        <input  asp-for="Paciente.NumeroTelefonico" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ciudad</label>
+        <input  asp-for="Paciente.Ciudad" class="form-control" />
+    
+    </div>
+     <div class="form-group">
+        <label>Dirección</label>
+        <input  asp-for="Paciente.Direccion" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Fecha nacimiento</label>
+        <input  asp-for="Paciente.FechaNacimiento" class="form-control" />
+    </div>
+     
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary" asp-page-handler="Save">Save</button>
+        <a asp-page="Index" class="btn btn-dark">Cancel</a>
+    </div>
+</form>

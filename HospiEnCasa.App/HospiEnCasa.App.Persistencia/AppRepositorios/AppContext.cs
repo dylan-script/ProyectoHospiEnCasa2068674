@@ -10,6 +10,11 @@ namespace HospiEnCasa.App.Persistencia{
         public DbSet<Paciente> Pacientes {get; set;}
         public DbSet<SignoVital> SignoVitales {get; set;}
         public DbSet<SugerenciaCuidado> SugerenciaCuidados {get; set;}
+         
+        public AppContext (DbContextOptions<AppContext> options) : base(options){
+            
+        }
+
          protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             

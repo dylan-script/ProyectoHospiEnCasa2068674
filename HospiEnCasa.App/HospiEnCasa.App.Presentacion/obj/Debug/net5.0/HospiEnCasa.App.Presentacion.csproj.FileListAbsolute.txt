@@ -82,3 +82,8 @@ C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\D
 C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.dll
 C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\Debug\net5.0\HospiEnCasa.App.Dominio.pdb
 C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.pdb
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Pacientes\Create.cshtml.g.cs
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Pacientes\Delete.cshtml.g.cs
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Pacientes\Details.cshtml.g.cs
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Pacientes\Edit.cshtml.g.cs
+C:\ProyectoHospiEnCasa2068674\HospiEnCasa.App\HospiEnCasa.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Pacientes\Index.cshtml.g.cs
