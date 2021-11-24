@@ -28,7 +28,8 @@ namespace HospiEnCasa.App.Presentacion
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddScoped<IRepositorioPaciente, RepositorioPaciente>();
+            services.AddScoped<IRepositorioPaciente, RepositorioPaciente>();//Interfaz Paciente
+            services.AddScoped<IRepositorioMedico, RepositorioMedico>();//Interfaz Médico
             services.AddDbContext<Persistencia.AppContext>(options =>
             options.UseSqlServer(
             Configuration.GetConnectionString("DefaultConnection")));

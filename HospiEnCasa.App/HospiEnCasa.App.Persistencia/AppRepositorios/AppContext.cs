@@ -15,7 +15,7 @@ namespace HospiEnCasa.App.Persistencia{
             
         }
 
-         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             
 
